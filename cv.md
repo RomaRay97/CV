@@ -1,16 +1,16 @@
 # Name & Surname
 Roman Lygach
-## Contacts to communication
-[https://t.me/RomaRay]("my TG")
-### About
+# Contacts to communication
+[https://t.me/RomaRay] ("my TG")
+# About
 **Drink _beer_**
-#### Skills
+# Skills
 Tell jokes
-##### Code examples
+# Code examples
 Hello world
-###### Expirience
+# Expirience
 5 years metro electrisian
 # Education
 PTU
-## English
+# English
 yes
