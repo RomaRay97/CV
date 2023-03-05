@@ -1,7 +1,7 @@
 # Name & Surname
 Roman Lygach
 # Contacts to communication
-[My TG] (https://t.me/RomaRay "Roma's TG")
+[My TG](https://t.me/RomaRay "Roma's TG")
 # About
 **Drink _beer_**
 # Skills
